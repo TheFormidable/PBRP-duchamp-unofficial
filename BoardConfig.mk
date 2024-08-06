@@ -174,7 +174,6 @@ TW_DEVICE_VERSION := The_Formidable
 # PBRP
 # Made PitchBlack Official
 PB_OFFICIAL := true
-#MAINTAINER := The_Formidable
-MAINTAINER := The_Formidable
+MAINTAINER := TheFormidable
 PB_TORCH_PATH := "/sys/class/flashlight_core/flashlight"
 PB_TORCH_MAX_BRIGHTNESS := 1
