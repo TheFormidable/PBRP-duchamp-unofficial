@@ -24,6 +24,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 
 PRODUCT_DEVICE := duchamp
 PRODUCT_NAME := twrp_duchamp
-PRODUCT_BRAND := POCO
+PRODUCT_BRAND := xiaomi
 PRODUCT_MODEL := 2311DRK48G
 PRODUCT_MANUFACTURER := xiaomi
